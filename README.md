@@ -3,4 +3,4 @@
 
 # Project: Game "Repeat the sequence" on Android.
 
-![PlayGame](gif\play.gif)
+![PlayGame](gif/play.gif)
