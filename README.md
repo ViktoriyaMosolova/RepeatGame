@@ -3,4 +3,4 @@
 
 # Project: Game "Repeat the sequence" on Android.
 
-![](gif/play.gif)
+![](https://github.com/ViktoriyaMosolova/RepeatGame/blob/0d48509dc137537761adc4fbce3b0b47bc13502a/README.md)
