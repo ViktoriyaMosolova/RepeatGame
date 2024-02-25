@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Repeat</string>
+    <string name="basic_game_title">New Game</string>
+    <string name="free_game_title">Free Game</string>
+    <string name="about_title">About</string>
+    <string name="about_record">Рекорд: %d</string>
+    <string name="about_rules">
+                Правила игры:
+        Пользователь должен правильно повторить воспроизведенную приложением последовательность </string>
+    <string name="about_author">Автор: mjollror 22_10_MSK SCHOOL21</string>
+</resources>
